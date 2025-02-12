@@ -1,0 +1,2 @@
+New-Item -Path dataset -Name "data.yaml" -ItemType "file"
+notepad dataset/data.yaml
